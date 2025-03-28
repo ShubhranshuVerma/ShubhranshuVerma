@@ -11,13 +11,10 @@ Hi there, I am Shubhranshu.👋<br><br>👨‍💻 About Me<br><br>🎓 Pursuing
 ![](https://github-readme-stats.vercel.app/api?username=ShubhranshuVerma&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShubhranshuVerma&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhranshuVerma&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShubhranshuVerma&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
